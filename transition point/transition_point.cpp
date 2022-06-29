@@ -29,7 +29,6 @@ int transitionPoint2(int arr[], int n){
 			left = mid + 1;
 		}
 	}
-	return -1;
 }
 int main(){
 	int 
